@@ -1,0 +1,17 @@
+{
+  "name": "fix-yarn-global-packages",
+  "version": "1.0.0",
+  "description": "Use this to fix your yarn global packages after upgrading node",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bradley-curran/fix-yarn-global-packages.git"
+  },
+  "author": "Bradley Curran",
+  "license": "MIT",
+  "bin": {
+    "fix-yarn-global-packages": "bin/fix-yarn-global-packages.js"
+  },
+  "dependencies": {
+    "shelljs": "0.7.6"
+  }
+}
