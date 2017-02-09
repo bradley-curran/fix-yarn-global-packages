@@ -1,6 +1,6 @@
 {
   "name": "fix-yarn-global-packages",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use this to fix your yarn global packages after upgrading node",
   "repository": {
     "type": "git",
