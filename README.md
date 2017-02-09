@@ -4,7 +4,7 @@ Installed global packages using `yarn`?
 
 Can't access them since updating `node`? 
 
-Use `fix-yarn-global` to use your global packages again! 
+Use `fix-yarn-global-packages` to use your global packages again! 
 
 ## Installation
 
